@@ -9,7 +9,7 @@
 
 ## Setup and Run
 
-Before running the program, replace the placeholder in the `appsettings.json` file with your GitHub token:
+Before running the program, replace the placeholder in the `appsettings.json` file with your [GitHub token](https://github.com/settings/tokens):
 
 ```json
 "GitHub": {
