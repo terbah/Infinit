@@ -1,0 +1,5 @@
+﻿appsettings.Local.json
+.vs/
+Directory.Build.targets
+bin/
+obj/
