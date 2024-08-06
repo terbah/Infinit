@@ -1,5 +1,3 @@
-﻿# Infinit Technical Test
-
 ## Contact
 
 - **Author:** Aghiles Terbah
